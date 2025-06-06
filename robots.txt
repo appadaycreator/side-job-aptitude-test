@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://appadaycreator.github.io/side-job-aptitude-test/sitemap.xml
+
+# 検索エンジンに優先的にインデックスしてもらいたいページ
+Allow: /index.html
+
+# クローラーの負荷軽減のための設定
+Crawl-delay: 1
